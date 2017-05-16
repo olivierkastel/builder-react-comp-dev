@@ -1,0 +1,116 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "builder-react-comp-dev@^0.1.6",
+        "scope": null,
+        "escapedName": "builder-react-comp-dev",
+        "name": "builder-react-comp-dev",
+        "rawSpec": "^0.1.6",
+        "spec": ">=0.1.6 <0.2.0",
+        "type": "range"
+      },
+      "/Users/kastelolivier/Desktop/test2"
+    ]
+  ],
+  "_from": "builder-react-comp-dev@>=0.1.6 <0.2.0",
+  "_id": "builder-react-comp-dev@0.1.6",
+  "_inCache": true,
+  "_location": "/builder-react-comp-dev",
+  "_nodeVersion": "5.8.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/builder-react-comp-dev-0.1.6.tgz_1458690484688_0.0017736104782670736"
+  },
+  "_npmUser": {
+    "name": "cnode",
+    "email": "hourliert@gmail.com"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "builder-react-comp-dev@^0.1.6",
+    "scope": null,
+    "escapedName": "builder-react-comp-dev",
+    "name": "builder-react-comp-dev",
+    "rawSpec": "^0.1.6",
+    "spec": ">=0.1.6 <0.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/builder-react-comp-dev/-/builder-react-comp-dev-0.1.6.tgz",
+  "_shasum": "1c09d784195c0ecc2c8062f3b334f417668699e3",
+  "_shrinkwrap": null,
+  "_spec": "builder-react-comp-dev@^0.1.6",
+  "_where": "/Users/kastelolivier/Desktop/test2",
+  "author": {
+    "name": "Thomas Hourlier",
+    "email": "hourliert@gmail.com",
+    "url": "https://github.com/hourliert"
+  },
+  "bugs": {
+    "url": "https://github.com/hourliert/builder-react-comp/issues"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^0.17.0-rc.1",
+    "babel-core": "^6.5.0",
+    "babel-eslint": "^5.0.0",
+    "babel-loader": "^6.2.0",
+    "babel-preset-jest": "^1.0.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "browser-sync": "^2.11.2",
+    "component-playground": "^1.2.0",
+    "enzyme": "^2.1.0",
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.0.2",
+    "eslint-config-react": "^1.1.1",
+    "eslint-plugin-react": "^4.1.0",
+    "file-loader": "^0.8.5",
+    "jest-cli": "^0.9.2",
+    "json-loader": "^0.5.3",
+    "raw-loader": "^0.5.1",
+    "react": "^0.14.7",
+    "react-addons-test-utils": "^0.14.7",
+    "react-transform-hmr": "^1.0.2",
+    "tslint": "^3.6.0",
+    "typescript": "^1.8.9",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.12.14",
+    "webpack-dev-middleware": "^1.5.1",
+    "webpack-hot-middleware": "^2.2.0"
+  },
+  "description": "Builder Archetype - React Component (Development)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1c09d784195c0ecc2c8062f3b334f417668699e3",
+    "tarball": "https://registry.npmjs.org/builder-react-comp-dev/-/builder-react-comp-dev-0.1.6.tgz"
+  },
+  "homepage": "https://github.com/hourliert/builder-react-comp#readme",
+  "keywords": [
+    "builder",
+    "archetype",
+    "react",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "name": "cnode",
+      "email": "hourliert@gmail.com"
+    }
+  ],
+  "name": "builder-react-comp-dev",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hourliert/builder-react-comp.git"
+  },
+  "scripts": {},
+  "version": "0.1.6"
+}
